@@ -76,4 +76,4 @@ pip install -r requirements.txt
 
 Результат виконання для поезії Джона Кітса
 
-![](task_2\Figure_1.png)
+![Top 10](./task_2/Figure_1.png "Top 10")
